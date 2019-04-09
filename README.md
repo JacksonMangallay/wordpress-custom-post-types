@@ -3,7 +3,7 @@ Easy custom post types setup within your custom WordPress themes
 
 ## Install:
 1. Download PostType.php and place it inside your theme folder.
-2. On your functions.php, include PostType.php
+2. On your functions.php, include PostType.php: include(path/to/PostType.php);
 3. And you're done!
 
 ## Create Post Types
