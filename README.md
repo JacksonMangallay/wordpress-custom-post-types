@@ -23,3 +23,8 @@ new PostType('Cars', 'Car');
 new PostType('Bikes', 'Bike');
 
 new PostType('Testimonial', 'Testimonial');
+
+
+
+#### Find this helpful? You can buy me a coffee
+Paypal: jackson.mangallay@hotmail.com
