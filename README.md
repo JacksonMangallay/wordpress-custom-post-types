@@ -14,7 +14,7 @@ new PostType({plural name}, {singular name});
 ## Example
 new PostType('Projects', 'Project');
 
-or create as many post types as you want!
+#### or create as many post types as you want!
 
 new PostType('Clients', 'Client');
 
