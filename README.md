@@ -26,5 +26,5 @@ new PostType('Testimonial', 'Testimonial');
 
 
 
-#### Find this helpful? You can buy me a coffee
+## Find this helpful? You can buy me a coffee
 Paypal: jackson.mangallay@hotmail.com
