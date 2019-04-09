@@ -6,12 +6,12 @@ Easy custom post types setup within your custom WordPress themes
 2. On your functions.php, include PostType.php: include(path/to/PostType.php);
 3. And you're done!
 
-## Create Post Types
+## Usage:
 If you want to create post types, just simply:
 
 new PostType({plural name}, {singular name});
   
-## Example
+## Example:
 new PostType('Projects', 'Project');
 
 #### or create as many post types as you want!
@@ -26,5 +26,5 @@ new PostType('Testimonial', 'Testimonial');
 
 
 
-## Find this helpful? You can buy me a coffee
+## Find this helpful? You can buy me a coffee.
 Paypal: jackson.mangallay@hotmail.com
