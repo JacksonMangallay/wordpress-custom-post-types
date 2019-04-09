@@ -17,6 +17,9 @@ new PostType('Projects', 'Project');
 or create as many post types as you want!
 
 new PostType('Clients', 'Client');
+
 new PostType('Cars', 'Car');
+
 new PostType('Bikes', 'Bike');
+
 new PostType('Testimonial', 'Testimonial');
