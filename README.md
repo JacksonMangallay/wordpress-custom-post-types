@@ -22,7 +22,7 @@ new PostType('Cars', 'Car');
 
 new PostType('Bikes', 'Bike');
 
-new PostType('Testimonial', 'Testimonial');
+new PostType('Testimonials', 'Testimonial');
 
 
 
