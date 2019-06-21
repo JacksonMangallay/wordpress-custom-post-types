@@ -69,7 +69,8 @@ class PostType{
             'hierarchical'       => false,
             'menu_position'      => null,
             'supports'           => array('title', 'editor', 'revisions', 'author', 'thumbnail', 'excerpt', 'comments'),
-            'menu_icon' => 'dashicons-media-spreadsheet'
+            'menu_icon' => 'dashicons-media-spreadsheet',
+            'taxonomies'          => array('category')
         ];
 
     }
