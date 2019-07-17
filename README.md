@@ -1,4 +1,4 @@
-# WordPress Custom Post Types
+# WordPress EZ Post Types
 Easy custom post types setup within your custom WordPress themes
 
 ## Install:
